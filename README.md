@@ -32,6 +32,7 @@ dist=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(dist))
 ```
 ### OUTPUT:
-
+![dist](https://user-images.githubusercontent.com/119559844/214956565-3bc1d1bd-e6be-4b30-acbb-ccb93f4a2681.png)
 
 ### RESULT:
+The above program is verified and created successfully
